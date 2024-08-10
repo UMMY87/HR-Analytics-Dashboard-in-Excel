@@ -19,6 +19,7 @@ This repository provides an in-depth analysis of employee demographics and attri
   - [Attrition by Marital Status](#Attrition-by-Marital-Status)
 - [Usage](#Usage)
 - [Detailed Conclusion](#Detailed-Conclusion)
+- [Dashboard](#Dashboard)
 
 ## Introduction
 Employee attrition is a critical concern for organizations aiming to maintain a stable and productive workforce. Understanding the factors that contribute to employee turnover can help in designing strategies to improve retention, enhance job satisfaction, and optimize the overall work environment.
@@ -141,6 +142,10 @@ One of the critical insights is the high attrition rate among employees aged 25-
 The job satisfaction rating of 2.6 out of 5 further suggests that employee morale may be low, potentially contributing to the high turnover. Improving this rating through targeted initiatives could help in retaining talent, particularly in high-attrition areas like Sales and among Bachelor's Degree holders.
 
 Given the high attrition among married employees, the organization may need to consider the work-life balance and benefits offered to this demographic. Strategic efforts to improve job satisfaction, particularly focusing on the most affected groups, could help reduce the attrition rate and enhance overall employee engagement and productivity.
+
+## Dashboard
+
+![Screenshot 2024-08-11 011909](https://github.com/user-attachments/assets/b68d63f4-d8bf-42bc-b5bd-4d8c3f7d7b35)
 
 ---
 
