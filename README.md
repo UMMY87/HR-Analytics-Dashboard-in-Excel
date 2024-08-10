@@ -25,7 +25,7 @@ Employee attrition is a critical concern for organizations aiming to maintain a 
 
 The HR Analytics Dashboard is a powerful tool designed to provide a comprehensive view of an organization's human resource dynamics. It leverages data visualization to highlight key trends in employee attrition, including breakdowns by gender, education, department, job role, age, and marital status. By analyzing this data, HR professionals and organizational leaders can make informed decisions to address attrition-related challenges effectively.
 
-## Step-by-Step-Procedure
+## Step-by-Step Procedure
 
 ### Data Preparation
 1. **Clean Data**: Begin by preparing and already clean data for analysis.
