@@ -81,7 +81,7 @@ The HR Analytics Dashboard is a powerful tool designed to provide a comprehensiv
 - **Attrition**: 237 employees have left the organization.
 - **Attrition Rate**: 16.12%
 - **Average Employee Age**: 37 years
-- **Job Satisfaction Rating**: 2.6 out of 5 stars
+- **Job Satisfaction Rating**: 2.6 out of 4 stars
 
 ## Key Insights
 
